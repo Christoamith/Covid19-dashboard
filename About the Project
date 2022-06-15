@@ -1,0 +1,13 @@
+# Covid19-dashboard
+Covid19 Dashboard using Power BI Desktop
+
+Dashboard Link https://app.powerbi.com/view?r=eyJrIjoiODBlZjhjMzAtMjM2ZS00ZGYwLWI2ODktNGQ0ZmQ1ODIxOWY4IiwidCI6IjkwODE3ZDczLTMwYTEtNGUzOS04ZWRjLWQzN2Q1NTY2ZWUyYiJ9&pageName=ReportSectionb04b1217b19104ad40b4
+
+The Dashboard was created using Microsoft Power BI. It provides insights into the impact of Covid 19 around the globe and in India.
+- The dataset is from a live data source weblink in which the data gets updated periodically.
+- The web link is fed into Microsoft Power BI desktop. Once the dataset is loaded the transform data tab is used to implement a POWER QUERY in order to dynamically update the dashboard based on the new data added to the data source.
+- The dashboard has 3 pages including the Landing page interlinked through bookmarks & buttons.
+- A geographical map visual was used to provide insight into the overall distribution of Covid cases.
+- Data Analysis Expressions (DAX) were used to display calculated measures (KPI) and rotating tiles were used to visualize those calculated KPI. Unicode characters were used with measures to display icons with KPI values.
+- A stroller visual is used to display the country-wise total number of cases.
+- The dashboard visualizes the Covid cases across the globe and India.
